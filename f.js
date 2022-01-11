@@ -24,7 +24,7 @@ Wahid.addCommand(
         	"itemCount" : 10001,
              "status": 1,
            "surface" : 1,
-           "message": "ꪻꪮ᥊𝔦ᥴ ꪑ᭙ꪮꪀ",
+           "message": "Kʀͥɪͭᴢᷤ sͫᴇͤR",
            "orderTitle": "",
            "thumbnail": buff.buffer,
            "sellerJid": '0@s.whatsapp.net' 
